@@ -52,9 +52,3 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-:fire: My Stats:
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MrXbott&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=MrXbott&theme=default" />
-</picture>
