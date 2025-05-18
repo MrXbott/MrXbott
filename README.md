@@ -18,26 +18,14 @@ Here are some ideas to get you started:
   <!-- <img src="https://media.giphy.com/media/zEfGeGWJHPMAKvh6gi/giphy.gif" width="200"> -->
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="120">
 </div>
-<!-- <br> -->
-<!-- <br> -->
-<!-- <div id="badges" align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/vkontakte-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
-</div> -->
-<!-- <br> -->
-<!-- <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrXbott&style=flat-square&color=blue" alt="counter"/>
-</div> -->
+
 <h1 align="center">
   Привет!
 </h1>
 <!-- <h1>Привет! 👋</h1> -->
-  <p>Меня зовут <strong>Евгения</strong>. Я начинающий Python-разработчик с фокусом на <strong>бэкенд и Django</strong>.</p>
+  <p>Меня зовут <strong>Евгения</strong>. Я Python-разработчик с фокусом на <strong>бэкенд и Django</strong>.</p>
 
-  <p>На этом GitHub вы найдёте мои пет-проекты, демонстрирующие знание следующих технологий:</p>
+  <p>Здесь вы найдёте мои проекты, демонстрирующие знание следующих технологий:</p>
 
   <ul>
     <li><strong>Python / Django</strong></li>
@@ -50,7 +38,6 @@ Here are some ideas to get you started:
 <!--     <li><strong>Git и работа с ветками</strong></li> -->
   </ul>
 
-  <p>🎯 Я активно учусь, расширяю стек и готова к работе над реальными задачами.
  <br>🎯 Открыта для удаленной фултайм работы или фриланс-проектов.</p>
 <!-- через <a href="https://t.me/твой_ник" target="_blank">Telegram</a> или  -->
   <p>📫 Связаться со мной можно по email: <a href="mailto:mr.xbott@gmail.com">mr.xbott@gmail.com</a>.</p>
