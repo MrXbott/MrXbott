@@ -19,28 +19,30 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="120">
 </div>
 
+<!--
 <h1 align="center">
   Привет!
 </h1>
+ -->
 <!-- <h1>Привет! 👋</h1> -->
-  <p>Меня зовут <strong>Евгения</strong>. Я Python-разработчик с фокусом на <strong>бэкенд и Django</strong>.</p>
+  <p>Меня зовут <strong>Евгения</strong>. Я Python-разработчик с фокусом на <strong>бэкенд и API</strong>.</p>
 
   <p>Здесь вы найдёте мои проекты, демонстрирующие знание следующих технологий:</p>
 
   <ul>
-    <li><strong>Python / Django</strong></li>
-    <li><strong>PostgreSQL / Mongo</strong></li>
+    <li><strong>Python / Django / FastAPI / Flask </strong></li>
+    <li><strong>PostgreSQL / MongoDB </strong></li>
     <li><strong>Redis / Celery</strong></li>
-    <li><strong>API</strong></li>
-    <li><strong>Telegram-боты</strong></li>
+    <li><strong>API / FastAPI </strong></li>
+    <li><strong>Aiogram 3 </strong></li>
 <!--     <li><strong>Аутентификация и авторизация</strong></li> -->
-    <li><strong>Solidity / MetaMask / NFT / Web3</strong></li>
+<!--     <li><strong>Solidity / MetaMask / NFT / Web3</strong></li> -->
 <!--     <li><strong>Git и работа с ветками</strong></li> -->
   </ul>
 
  <br>🎯 Открыта для удаленной фултайм работы или фриланс-проектов.</p>
 <!-- через <a href="https://t.me/твой_ник" target="_blank">Telegram</a> или  -->
-  <p>📫 Связаться со мной можно по email: <a href="mailto:mr.xbott@gmail.com">mr.xbott@gmail.com</a>.</p>
+  <p>📫 Связаться со мной можно по email: <a href="mailto:mr.xbott@gmail.com">mr.xbott@gmail.com</a> или в телеграмм <a href="https://t.me/MrXbott">@MrXbott</a> </p>
 
 <!-- <br>
 <br>
