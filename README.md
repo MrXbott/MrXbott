@@ -30,10 +30,10 @@ Here are some ideas to get you started:
   <p>Здесь вы найдёте мои проекты, демонстрирующие знание следующих технологий:</p>
 
   <ul>
-    <li><strong>Python / Django / FastAPI / Flask </strong></li>
+    <li><strong>Python / FastAPI / Flask / Django </strong></li>
     <li><strong>PostgreSQL / MongoDB </strong></li>
     <li><strong>Redis / Celery</strong></li>
-    <li><strong>API / FastAPI </strong></li>
+    <li><strong>API / FastAPI / Pydantic </strong></li>
     <li><strong>Aiogram 3 </strong></li>
 <!--     <li><strong>Аутентификация и авторизация</strong></li> -->
 <!--     <li><strong>Solidity / MetaMask / NFT / Web3</strong></li> -->
