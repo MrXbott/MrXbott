@@ -1,48 +1,46 @@
 
-<!--
-**MrXbott/MrXbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div id="header" align="center">
   <!-- <img src="https://media.giphy.com/media/zEfGeGWJHPMAKvh6gi/giphy.gif" width="200"> -->
-  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="80">
 </div>
 
-<!--
-<h1 align="center">
-  Привет!
-</h1>
- -->
-<!-- <h1>Привет! 👋</h1> -->
-  <p>Меня зовут <strong>Евгения</strong>. Я Python-разработчик с фокусом на <strong>бэкенд и API</strong>.</p>
 
-  <p>Здесь вы найдёте мои проекты, демонстрирующие знание следующих технологий:</p>
+### Hi there! 
 
-  <ul>
-    <li><strong>Python / FastAPI / Flask / Django </strong></li>
-    <li><strong>PostgreSQL / MongoDB </strong></li>
-    <li><strong>Redis / Celery</strong></li>
-    <li><strong>API / FastAPI / Pydantic </strong></li>
-    <li><strong>Aiogram 3 </strong></li>
-<!--     <li><strong>Аутентификация и авторизация</strong></li> -->
-<!--     <li><strong>Solidity / MetaMask / NFT / Web3</strong></li> -->
-<!--     <li><strong>Git и работа с ветками</strong></li> -->
-  </ul>
+My name is Eugenia. I'm a Python backend developer with experience building web applications, APIs, and bots.
 
- <br>🎯 Открыта для удаленной фултайм работы или фриланс-проектов.</p>
-<!-- через <a href="https://t.me/твой_ник" target="_blank">Telegram</a> или  -->
-  <p>📫 Связаться со мной можно по email: <a href="mailto:mr.xbott@gmail.com">mr.xbott@gmail.com</a> или в телеграмм <a href="https://t.me/MrXbott">@MrXbott</a> </p>
+I'm open to full-time roles or freelance projects. Feel free to contact me via email [mr.xbott@gmail.com](mailto:mr.xbott@gmail.com) or Telegram [@mrxbott](https://t.me/MrXbott).
+
+<br>
+
+### My Skills:
+- FastAPI, Flask, Django, DRF
+- PostgreSQL, MongoDB  
+- Redis, Celery  
+- Aiogram 3, aiohttp
+- SQLAlchemy, Pydantic 
+- Git, Docker, Postman, DBeaver
+
+<br>
+
+### Also familiar with:
+- Pandas, NumPy, Matplotlib
+- Basic HTML, CSS, JavaScript  
+- Basic Solidity (smart contract development, deployed via Remix on Polygon)
+- C# (studied, no professional projects)
+
+<br>
+
+### Contact Me:
+- Email: [mr.xbott@gmail.com](mailto:mr.xbott@gmail.com)
+- Telegram: [MrXbott](https://t.me/MrXbott)
+
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrXbott&show_icons=true&theme=github_dark_dimmed) -->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrXbott&layout=compact&theme=github_dark_dimmed&hide=mako) -->
+
+
 
 <!-- <br>
 <br>
