@@ -17,18 +17,9 @@ I'm open to full-time roles or freelance projects. Feel free to contact me via e
 ### My Skills:
 - FastAPI, Flask, Django, DRF
 - PostgreSQL, MongoDB  
-- Redis, Celery  
-- Aiogram 3, aiohttp
+- Redis, Celery
 - SQLAlchemy, Pydantic 
-- Git, Docker, Postman, DBeaver
-
-<br>
-
-### Also familiar with:
-- Pandas, NumPy, Matplotlib
-- Basic HTML, CSS, JavaScript  
-- Basic Solidity (smart contract development, deployed via Remix on Polygon)
-- C# (studied, no professional projects)
+- Aiogram 3
 
 <br>
 
