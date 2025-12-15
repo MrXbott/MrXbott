@@ -8,10 +8,10 @@
 
 ### Hi there! 
 
-My name is Eugenia. I'm a Python backend developer with experience building web applications, APIs, and bots.
-
+My name is Eugenia. 
+<!-- I'm a Python backend developer with experience building web applications, APIs, and bots. 
 I'm open to full-time roles or freelance projects. Feel free to contact me via email [mr.xbott@gmail.com](mailto:mr.xbott@gmail.com) or Telegram [@mrxbott](https://t.me/MrXbott).
-
+-->
 <br>
 
 ### My Skills:
