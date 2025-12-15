@@ -15,11 +15,12 @@ I'm open to full-time roles or freelance projects. Feel free to contact me via e
 <br>
 
 ### My Skills:
-- FastAPI, Flask, Django, DRF
-- PostgreSQL, MongoDB  
+- Python, FastAPI, Flask, Django, DRF
+- SQL, PostgreSQL, MongoDB  
 - Redis, Celery
 - SQLAlchemy, Pydantic 
 - Aiogram 3
+- pytest
 
 <br>
 
