@@ -1,14 +1,11 @@
 
-
+<!-- 
 <div id="header" align="center">
-  <!-- <img src="https://media.giphy.com/media/zEfGeGWJHPMAKvh6gi/giphy.gif" width="200"> -->
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="80">
 </div>
+-->
 
-
-### Hi there! 
-
-My name is Eugenia. 
+### Hi there! My name is Eugenia. 
 <!-- I'm a Python backend developer with experience building web applications, APIs, and bots. 
 I'm open to full-time roles or freelance projects. Feel free to contact me via email [mr.xbott@gmail.com](mailto:mr.xbott@gmail.com) or Telegram [@mrxbott](https://t.me/MrXbott).
 -->
@@ -25,8 +22,8 @@ I'm open to full-time roles or freelance projects. Feel free to contact me via e
 <br>
 
 ### Contact Me:
-- Email: [mr.xbott@gmail.com](mailto:mr.xbott@gmail.com)
-- Telegram: [MrXbott](https://t.me/MrXbott)
+- Email: [eximorra@gmail.com](mailto:eximorra@gmail.com)
+- Telegram: [MrXbott](https://t.me/eximorra)
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrXbott&show_icons=true&theme=github_dark_dimmed) -->
