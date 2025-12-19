@@ -23,7 +23,7 @@ I'm open to full-time roles or freelance projects. Feel free to contact me via e
 
 ### Contact Me:
 - Email: [eximorra@gmail.com](mailto:eximorra@gmail.com)
-- Telegram: [MrXbott](https://t.me/eximorra)
+- Telegram: [eximorra](https://t.me/eximorra)
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrXbott&show_icons=true&theme=github_dark_dimmed) -->
