@@ -5,25 +5,19 @@
 </div>
 -->
 
-### Hi there! My name is Eugenia. 
+Hi there! My name is Eugenia. 
 <!-- I'm a Python backend developer with experience building web applications, APIs, and bots. 
 I'm open to full-time roles or freelance projects. Feel free to contact me via email [mr.xbott@gmail.com](mailto:mr.xbott@gmail.com) or Telegram [@mrxbott](https://t.me/MrXbott).
 -->
 <br>
 
-### My Skills:
-- Python, FastAPI, Flask, Django, DRF
-- SQL, PostgreSQL, MongoDB  
-- Redis, Celery
-- SQLAlchemy, Pydantic 
-- Aiogram 3
-- pytest
+**Skills:** Python, FastAPI, Flask, Django, DRF, SQL, PostgreSQL, MongoDB, Redis, Celery, SQLAlchemy, Pydantic, Aiogram 3, pytest
 
 <br>
 
-### Contact Me:
-- Email: [eximorra@gmail.com](mailto:eximorra@gmail.com)
-- Telegram: [eximorra](https://t.me/eximorra)
+Email: [eximorra@gmail.com](mailto:eximorra@gmail.com)
+
+Telegram: [eximorra](https://t.me/eximorra)
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrXbott&show_icons=true&theme=github_dark_dimmed) -->
